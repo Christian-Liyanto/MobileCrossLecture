@@ -1,0 +1,20 @@
+.searchBar{
+    margin-top: 20px;
+}
+
+.visual{
+    margin-top: 10px;
+    margin-left: 10px;
+    color: gray;
+}
+
+.searchResult{
+    margin-top: 10px;
+    width: 100%;
+    height: auto;
+    background-color: lightgray;
+}
+
+.cancel{
+    color: lightgray;
+}
